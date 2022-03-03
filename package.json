@@ -1,6 +1,9 @@
 {
   "name": "coworkers",
   "scripts": {
-    "start": "node cli"
+    "start": "node cli.js"
+  },
+  "dependencies": {
+    "node": "^17.5.0"
   }
 }
